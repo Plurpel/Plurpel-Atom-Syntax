@@ -6,3 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 14/09/2021
 
 - Initial release
+
+## [1.0.2] - 14/09/2021
+
+- Cursor Color Change
+- Text Color Change
+- `@syntax-result-marker-color: #F7ECE1;` Color Change
+- `@syntax-result-marker-color-selected: #F7ECE1;` Color Change
