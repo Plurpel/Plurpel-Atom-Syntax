@@ -1,0 +1,19 @@
+{
+  "name": "PlurpelSyntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Plurpel, A Juicy Purple And Creamy Syntax Theme For Atom ",
+  "keywords": [
+    "plurpel",
+    "Plurpel",
+    "Dark",
+    "syntax",
+    "Atom",
+    "atom"
+  ],
+  "license": "MIT",
+  "repository": "https://github.com/JhonLikesFloppa/Plurpel-Atom-Syntax",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
