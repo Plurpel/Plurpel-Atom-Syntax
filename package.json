@@ -12,7 +12,7 @@
     "atom"
   ],
   "license": "MIT",
-  "repository": "https://github.com/JhonLikesFloppa/Plurpel-Atom-Syntax",
+  "repository": "https://github.com/Plurpel/Plurpel-Atom-Syntax",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   }

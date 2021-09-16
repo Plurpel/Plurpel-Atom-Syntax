@@ -13,3 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Text Color Change
 - `@syntax-result-marker-color: #F7ECE1;` Color Change
 - `@syntax-result-marker-color-selected: #F7ECE1;` Color Change
+
+## [1.0.3] - 16/09/2021
+
+- GitHub Repo. Change
