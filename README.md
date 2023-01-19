@@ -1,3 +1,5 @@
+# REPO Archived Due To Atom Editor No Longer Being Available!!!
+
 ![Plurpel Banner](https://cdn.jsdelivr.net/gh/JhonLikesFloppa/Plurpel@main/img/Plurpel%20Banner.png)
 
 ## Plurpel, A Purple And Creamy Theme For Visual Studio Code
